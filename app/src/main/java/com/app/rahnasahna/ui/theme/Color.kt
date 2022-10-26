@@ -14,6 +14,8 @@ val Green700 = Color(0xFF13804D)
 val Gray700 = Color(0xFFC4C4C4)
 val Gray200 = Color(0xFFF4F4F4)
 
+val HintColor = Color(0xFF969696)
+
 val Colors.buttonBackground: Color
 @Composable
-get() = if(isLight) Green700 else Green700
+get() = if(isLight) Green700 else Color.Black
