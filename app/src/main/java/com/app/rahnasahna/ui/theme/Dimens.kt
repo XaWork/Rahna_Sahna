@@ -20,3 +20,4 @@ val SpaceBetweenViews = 20.dp
 val SpaceBetweenViewsAndSubViews = 10.dp
 
 val SocialIconSize = 40.dp
+val SingleCitySize = 50.dp
