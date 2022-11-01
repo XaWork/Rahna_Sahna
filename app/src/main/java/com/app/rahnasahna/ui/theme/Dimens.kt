@@ -25,3 +25,4 @@ val SocialIconSize = 40.dp
 val SingleCitySize = 50.dp
 
 val NotificationCircleImageSize = 70.dp
+val WishlistRoundImageSize = 90.dp
